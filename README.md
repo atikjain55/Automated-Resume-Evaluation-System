@@ -1,1 +1,1 @@
-# Automatic-Resume-Evaluation-System
+# Automated-Resume-Evaluation-System
